@@ -18,8 +18,7 @@ Survey-II (IHDS-II), 2011-12 dataset obtained from The Data Sharing for Demogr
 
 **Dataset source:** [https://www.icpsr.umich.edu/web/DSDR/studies/36151/versions/V6#](https://www.icpsr.umich.edu/web/DSDR/studies/36151/versions/V6#)
 
-The dataset contains information related toThe India Human Development Survey-II (IHDS-II), 2011-12 is a nationally representative, multi-topic survey of 42,152 households in 1,420 villages and 1,042 urban neighborhoods across India. These data are mostly re-interviews of households interviewed for IHDS (ICPSR 22626) in 2004-05. Both surveys cover all states and union territories of India with the exception of Andaman & Nicobar and Lakshadweep. Two one-hour interviews in each household covered topics concerning health, education, employment, economic status, marriage, fertility, gender relations, social capital, village infrastructure, wage levels, and panchayat composition. Childrenaged 8-11 completed short reading, writing and arithmetic tests. 
-
+The India Human Development Survey-II (IHDS-II), 2011-12, is a nationally representative, multi-topic survey covering 42,152 households across rural and urban India. The survey includes information on employment, education, health, economic status, marriage, gender relations, social capital, and other socioeconomic characteristics.
 ### Model features
 
 - Age
@@ -34,7 +33,7 @@ The dataset contains information related toThe India Human Development Survey-II
 
 ### Target variable
 
-The model predicts employed
+The target variable is employment status (employed).
 
 Protected attributes were not directly used as predictors in the baseline Logistic Regression model. They were instead used to evaluate whether model outcomes differed across demographic groups.
 
